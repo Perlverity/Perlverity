@@ -1,0 +1,1 @@
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/perlverity/posts.svg)](http://qiita.com/perlverity)
