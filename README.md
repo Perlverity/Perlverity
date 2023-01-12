@@ -4,5 +4,5 @@
 
 <p>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=perlverity&show_icons=true&theme=dark" height="160px" />　 -->
-<img src="https://github-profile-trophy.vercel.app/?username=perlverity&column=7&no-bg=true&no-frame=true" height="160px" />
+<img src="https://github-profile-trophy.vercel.app/?username=perlverity&column=7&no-bg=true&no-frame=true"/>
 </p>
